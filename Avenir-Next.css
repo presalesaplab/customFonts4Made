@@ -1,22 +1,10 @@
-/* SAP Fiori Icons */
+/* AvenirNextLTPro */
 @font-face {
-	font-family: 'SAP Fiori Icons';
-	src:
-		url('https://michadelic.github.io/CustomFontsSAC/SAP-icons.woff2') format('woff2'),
-		url('https://michadelic.github.io/CustomFontsSAC/SAP-icons.woff') format('woff'),
-		url('https://michadelic.github.io/CustomFontsSAC/SAP-icons.ttf') format('truetype');
-	font-weight: normal;
-	font-style: normal;
-}
-
-@font-face {
- font-family: 'MyWebfont';
+ font-family: 'AvenirNextLTPro';
  font-style: normal;
- font-weight: 400;
- font-display: swap;
-src: url (<URL for font>) format('<font-type>');
+ font-weight: normal;
+ src: 
+	 url ('https://github.com/presalesaplab/customFonts4Made/AvenirNextLTPro-Bold.otf') format('Bold'),
+	 url ('https://github.com/presalesaplab/customFonts4Made/AvenirNextLTPro-It.otf') format('It'),
+	 url ('https://github.com/presalesaplab/customFonts4Made/AvenirNextLTPro-Regular.otf') format('Regular');
  }
-
-
-
-
