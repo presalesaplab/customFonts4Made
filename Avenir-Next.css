@@ -4,7 +4,8 @@
  font-style: normal;
  font-weight: normal;
  src: 
-	 url ('https://raw.githubusercontent.com/presalesaplab/customFonts4Made/AvenirNextLTPro-Bold.otf') format('Bold'),
-	 url ('https://raw.githubusercontent.com/presalesaplab/customFonts4Made/AvenirNextLTPro-It.otf') format('It'),
-	 url ('https://raw.githubusercontent.com/presalesaplab/customFonts4Made/AvenirNextLTPro-Regular.otf') format('Regular');
+	 url ('https://raw.githubusercontent.com/presalesaplab/customFonts4Made/AvenirNextLTPro-Bold.otf') format('otf'),
+	 url ('https://raw.githubusercontent.com/presalesaplab/customFonts4Made/AvenirNextLTPro-It.otf') format('otf'),
+	 url ('https://raw.githubusercontent.com/presalesaplab/customFonts4Made/AvenirNextLTPro-Regular.otf') format('otf');
  }
+
